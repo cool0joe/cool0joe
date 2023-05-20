@@ -7,6 +7,8 @@ Although I may be new to the tech industry, my determination and dedication driv
 
 I am committed to honing my skills, attending workshops and training programs, and actively engaging in coding communities to stay updated with the latest trends and best practices. Through my continuous learning and hands-on experience, I aspire to become a proficient software engineer, contributing to impactful projects, making awesome products and making a positive impact in the world of technology. </p>
 
+<p>My friends call me CeeJay, feel free to do that friend!</p>
+
 
 
 ## A Few fun facts about me: 
@@ -49,4 +51,7 @@ I am committed to honing my skills, attending workshops and training programs, a
 &bull; [Foodie App](https://example.com/to-be-added-later/)
 
 
-
+## Contact
+<p> You can make connects via the following links
+&bull; [Twitter](https://twitter.com/cool_0joe/)
+&bull; [Email](mailto:josephadeoye30@gmil.com)
