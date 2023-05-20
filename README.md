@@ -53,5 +53,12 @@ I am committed to honing my skills, attending workshops and training programs, a
 
 ## Contact
 <p> You can make connects via the following links
+<br>
 &bull; [Twitter](https://twitter.com/cool_0joe/)
-&bull; [Email](mailto:josephadeoye30@gmil.com)
+<br>
+&bull; [Email Me](mailto:josephadeoye30@gmail.com)
+<br>
+&bull; [Send me a WhatsApp message](https://api.whatsapp.com/send?phone=+2349013976991)
+<br>
+&bull; [Linkedin](https://www.linkedin.com/in/joseph-adeoye-328562223)
+<br>
