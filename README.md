@@ -49,12 +49,11 @@ I am committed to honing my skills, attending workshops and training programs, a
 &bull; [Fylo](https://1stcapstone4group161.netlify.app/)
 <br>
 &bull; [Foodie App](https://example.com/to-be-added-later/)
+<br>
 
 
 ## Contact
-<p> You can make connects via the following links
-<br>
-&bull; [Twitter](https://twitter.com/cool_0joe/)
+&bull; [Google](https://google.com)
 <br>
 &bull; [Email Me](mailto:josephadeoye30@gmail.com)
 <br>
