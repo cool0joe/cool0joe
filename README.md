@@ -53,7 +53,7 @@ I am committed to honing my skills, attending workshops and training programs, a
 
 
 ## Contact
-&bull; [Google](https://google.com)
+&bull; [Twitter](https://twitter.com/cool_0joe)
 <br>
 &bull; [Email Me](mailto:josephadeoye30@gmail.com)
 <br>
@@ -61,3 +61,6 @@ I am committed to honing my skills, attending workshops and training programs, a
 <br>
 &bull; [Linkedin](https://www.linkedin.com/in/joseph-adeoye-328562223)
 <br>
+
+
+### Thank You
