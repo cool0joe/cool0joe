@@ -12,13 +12,13 @@ I am committed to honing my skills, attending workshops and training programs, a
 
 
 ## A Few fun facts about me: 
-&bull; I love playing basketball 🏀, as well as to make designs, and watch crime related series.
+&bull; I love playing basketball , as well as to make designs, and watch crime related series.
 <br>
-&bull; Building connections with kindred spirits who actively foster our personal and professional growth is a concept that deeply me 🙃.
+&bull; Building connections with kindred spirits who actively foster our personal and professional growth is a concept that deeply me .
 <br>
-&bull; I find it amusing when I travel, so yhh I like to travel 🚘.
+&bull; I find it amusing when I travel, so yeah I like to travel.
 <br>
-&bull; An Interverted Extrovert, and  I am big on inner peace✌️.
+&bull; An Interverted Extrovert, and  I am big on inner peace.
 <br>
 
 
