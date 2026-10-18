@@ -1,66 +1,61 @@
-# Introduction
 ![Intro Image](/my-hero-intro.png)
-### Hi there 👋
-<p> My name is Joseph Adeoye,  I a student and I'm excited to embark on my journey in the tech world as a front end software engineer. As a newcomer to this dynamic field, I am eager to learn, grow, and contribute my skills to create innovative solutions. I have a passion for problem-solving, and I'm continuously exploring new technologies that helps me achieve just that.
 
-Although I may be new to the tech industry, my determination and dedication drive me to constantly push my boundaries and expand my knowledge. I thrive in collaborative environments and enjoy working alongside experienced professionals as well as collaborative creative individuals who can mentor, guide and work concurrently with me along the way.
+# Hi, I'm Joseph (CJ) 👋
 
-I am committed to honing my skills, attending workshops and training programs, and actively engaging in coding communities to stay updated with the latest trends and best practices. Through my continuous learning and hands-on experience, I aspire to become a proficient software engineer, contributing to impactful projects, making awesome products and making a positive impact in the world of technology. </p>
+**Starting out in Infrastructure & DevOps.**
+Lagos, Nigeria · Computer Science, National Open University of Nigeria
 
-<p>My friends call me CeeJay, feel free to do that friend!</p>
+I've spent the past few years in tech support at a telecom channel partner, solving day-to-day IT problems for users and merchants. In 2025 I started supporting the company's VTU platform: monitoring uptime, chasing down failed transactions and building a tool to make sense of the data. That got me hooked on how systems actually run, so I'm now properly starting out in infrastructure, in a **learning and building phase** focused on Linux, cloud, automation and DevOps.
 
+I'm building in public. If you're working on something interesting, or you're on the same path, I'd love to collaborate.
 
+---
 
-## A Few fun facts about me: 
-&bull; I love playing basketball , as well as to make designs, and watch crime related series.
-<br>
-&bull; Building connections with kindred spirits who actively foster our personal and professional growth is a concept that deeply me .
-<br>
-&bull; I find it amusing when I travel, so yeah I like to travel.
-<br>
-&bull; An Interverted Extrovert, and  I am big on inner peace.
-<br>
+## 🔭 Where I am now
 
+- **Working:** Tech Support at Olumajek IT Continental (MTN, Airtel and Glo channel partner), supporting its VTU platform since 2025
+- **Studying:** B.Sc. Computer Science, NOUN (graduating 2026)
+- **Building:** small projects that each teach one infrastructure skill, documented as I go
 
-## My Top Skills
-&bull; Good Communication
-<br>
-&bull; Time Management
-<br>
-&bull; Creativity
-<br>
-&bull; Visual and UI design
-<br>
-&bull; Coding
-<br>
-&bull; Information Technology
-<br>
+## 🌱 What I'm learning
 
+| Area | Focus |
+| --- | --- |
+| Linux | Server administration, shell scripting, permissions, services |
+| Networking | DNS, HTTP, SSL/TLS, firewalls |
+| Containers | Docker, Docker Compose |
+| CI/CD | GitHub Actions |
+| Cloud | AWS fundamentals |
+| Infrastructure as Code | Terraform |
+| Monitoring | Uptime checks, logs, metrics |
 
-## Projects I worked on
-&bull; [Fiber](https://cjfiberdemo.netlify.app/)
-<br>
-&bull; [Johnathan Specter](https://johnathanspecter.netlify.app/)
-<br>
-&bull; [Commune](https://cjcommunedemo.netlify.app)
-<br>
-&bull; [Spense](https://cjspensedemo.netlify.app/)
-<br>
-&bull; [Fylo](https://1stcapstone4group161.netlify.app/)
-<br>
-&bull; [Foodie App](https://example.com/to-be-added-later/)
-<br>
+**Goal:** become a highly proficient Infrastructure / DevOps engineer who builds systems that are reliable, automated and well documented.
 
+---
 
-## Contact
-&bull; [Twitter](https://twitter.com/cool_0joe)
-<br>
-&bull; [Email Me](mailto:josephadeoye30@gmail.com)
-<br>
-&bull; [Send me a WhatsApp message](https://api.whatsapp.com/send?phone=+2349013976991)
-<br>
-&bull; [Linkedin](https://www.linkedin.com/in/joseph-adeoye-328562223)
-<br>
+## 🛠️ Featured work
 
+| Project | What it is |
+| --- | --- |
+| [VTU Platform Operations](https://github.com/cool0joe/vtu-platform-operation) | Case study and runbook from administering a production VTU platform integrated with MTN, Airtel and Glo |
+| Merchant Performance Tracker | A reporting tool I built to track merchant performance, flag underperformers and produce reports for management *(repo coming soon)* |
 
-### Thank You
+### Earlier front-end projects
+
+[Fiber](https://cjfiberdemo.netlify.app/) · [Johnathan Specter](https://johnathanspecter.netlify.app/) · [Commune](https://cjcommunedemo.netlify.app) · [Spense](https://cjspensedemo.netlify.app/) · [Fylo](https://1stcapstone4group161.netlify.app/)
+
+---
+
+## 🤝 Open to
+
+- Collaborating on infrastructure, DevOps or open-source projects
+- Mentorship from people further along the path
+- Junior / entry-level roles in systems, infrastructure or DevOps
+
+## 📫 Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/joseph-adeoye-328562223) · [Email](mailto:josephadeoye30@gmail.com) · [Twitter / X](https://twitter.com/cool_0joe)
+
+---
+
+<sub>Outside tech: basketball, design, travel, and a good crime series.</sub>
