@@ -2,25 +2,30 @@
 
 # Hi, I'm Joseph (CJ) 👋
 
-**Starting out in Infrastructure & DevOps.**
+**UI/UX Designer & Junior Front-End Developer, growing into DevOps.**
 Lagos, Nigeria · Computer Science, National Open University of Nigeria
 
-I've spent the past few years in tech support at a telecom channel partner, solving day-to-day IT problems for users and merchants. In 2025 I started supporting the company's VTU platform: monitoring uptime, chasing down failed transactions and building a tool to make sense of the data. That got me hooked on how systems actually run, so I'm now properly starting out in infrastructure, in a **learning and building phase** focused on Linux, cloud, automation and DevOps.
+I design interfaces, build them in code, and I'm learning to deploy and run them.
 
-I'm building in public. If you're working on something interesting, or you're on the same path, I'd love to collaborate.
+For 3+ years I've designed websites, software UI and brand systems for clients in Nigeria and Canada. I also work in tech support at a telecom channel partner, where since 2025 I've supported the company's VTU platform: monitoring uptime, chasing down failed transactions and building a tool to make sense of the data. Seeing a live system up close got me hooked on how things actually run, so I'm in a **learning and building phase**: JavaScript and React first, then Linux, Docker, CI/CD and cloud.
+
+If you're working on something interesting, or you're on the same path, I'd love to collaborate.
 
 ---
 
 ## 🔭 Where I am now
 
+- **Designing:** UI/UX and web design for clients at EvoCreatives (Canada, remote)
 - **Working:** Tech Support at Olumajek IT Continental (MTN, Airtel and Glo channel partner), supporting its VTU platform since 2025
 - **Studying:** B.Sc. Computer Science, NOUN (graduating 2026)
-- **Building:** small projects that each teach one infrastructure skill, documented as I go
+- **Building:** small projects that each teach one new skill, documented as I go
 
 ## 🌱 What I'm learning
 
 | Area | Focus |
 | --- | --- |
+| JavaScript | Arrays, functions, the DOM, `fetch` and async |
+| React | Components, state, props, effects |
 | Linux | Server administration, shell scripting, permissions, services |
 | Networking | DNS, HTTP, SSL/TLS, firewalls |
 | Containers | Docker, Docker Compose |
@@ -29,7 +34,7 @@ I'm building in public. If you're working on something interesting, or you're on
 | Infrastructure as Code | Terraform |
 | Monitoring | Uptime checks, logs, metrics |
 
-**Goal:** become a highly proficient Infrastructure / DevOps engineer who builds systems that are reliable, automated and well documented.
+**Goal:** design it, build it, ship it, run it. Grow from designer and front-end developer into a proficient DevOps engineer whose systems are reliable, automated and well documented.
 
 ---
 
